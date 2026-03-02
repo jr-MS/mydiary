@@ -1,5 +1,6 @@
 title: "Daily Notes"
 description: "Daily book/art diary (CN/EN)"
 url: "https://jr-ms.github.io"
+baseurl: "/mydiary"
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
