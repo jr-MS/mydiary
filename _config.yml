@@ -1,0 +1,5 @@
+title: "Daily Notes"
+description: "Daily book/art diary (CN/EN)"
+url: "https://jr-ms.github.io"
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
